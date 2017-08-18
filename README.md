@@ -68,10 +68,10 @@ git status
     git reflog  
 
 7. ## 同步到远程仓库
-git remote  
--v  
-origin  
-git push origin master  
+- git remote  
+  -v  
+  origin  
+  git push origin master  
 - 多人协作解决冲突
   - git fetch
     Git diff master origin/master  
@@ -83,11 +83,11 @@ fork
 pull request  
 
 9. ## Git分支  
-git branch  
+- git branch  
   -d  
   --merged  
   --no-merged  
-git checkout  
+- git checkout  
   -b  
 git merge  
 
