@@ -1,10 +1,10 @@
 # github-user-manual
 
 1. ## 概念
-git
-:    工具，版本控制
-github
-:    网站，社交平台，开源项目，远程仓库
+git  
+工具，版本控制
+github  
+网站，社交平台，开源项目，远程仓库
 
 2. ## 图解
 - svn与git区别
