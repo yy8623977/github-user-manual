@@ -41,10 +41,10 @@ git  clone  [url]
 
 6. ## Git命令
 git status  
-git add  
+- git add  
   name  
   .  
-git commit  
+- git commit  
   -m  
   -a -m  
 
