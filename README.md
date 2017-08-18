@@ -73,7 +73,7 @@ git status
   origin  
   git push origin master  
 - 多人协作解决冲突
-  - git fetch
+  - git fetch  
     Git diff master origin/master  
     Git merge  orgin/master  
   - git pull
