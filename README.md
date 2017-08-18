@@ -21,7 +21,7 @@ windows
 
 4. ## 建立一个库
 drag  
-git  clone  [url]  
+git  clone  [url]
 - 设置贡献者  
   name  
   email  
